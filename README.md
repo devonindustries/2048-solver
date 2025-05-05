@@ -4,7 +4,7 @@ A project I did for my Master's degree where I used the Monte-Carlo Tree Search 
 
 Here's a video of the AI in action using the Selenium web browser to visualise the process.
 
-[]()
+https://github.com/user-attachments/assets/4d45f69d-a5f7-4dab-969c-acfff357f876
 
 ## Setup
 
